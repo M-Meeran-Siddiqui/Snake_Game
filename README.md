@@ -23,7 +23,7 @@ This project is a **classic Snake Game** developed using **Java (Swing and AWT)*
 
 ## 📽️ Project Demo
 ### 🎥 Watch on YouTube
-[![Watch the Video](https://img.youtube.com/vi/[Video_ID]/0.jpg)](https://youtu.be/[Video_ID])  
+[![Watch the Video](https://img.youtube.com/vi/WEcKTovrMUU/0.jpg)](https://youtu.be/WEcKTovrMUU)  
 
 ## 📂 Installation & Usage
 1. Clone this repository:
